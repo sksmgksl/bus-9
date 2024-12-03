@@ -1,0 +1,7 @@
+/project_folder
+  /templates
+    index.html
+    new_post.html
+  app.py
+  /static
+    (필요한 CSS 파일들, 이미지 등)
